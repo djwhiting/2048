@@ -407,31 +407,31 @@ hr {
   .tile.tile-2 .tile-inner {
     background: url('../tile-sets/binary/2.png');
     background-size: 100%;
-    color: rgba(0,0,0,255);
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: url('../tile-sets/binary/4.png');
     background-size: 100%;
-    color: rgba(0,0,16,255);
+    color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     background: url('../tile-sets/binary/8.png');
     background-size: 100%;
-    color: rgba(0,0,32,255);
+    color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 11px;
   }
   .tile.tile-16 .tile-inner {
     background: url('../tile-sets/binary/16.png');
     background-size: 100%;
-    color: rgba(0,0,48,255);
+    color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
     background: url('../tile-sets/binary/32.png');
     background-size: 100%;
-    color: rgba(0,0,0,255);
+    color: rgba(0,0,0,0);
     font-size: 14px;
   }
   .tile.tile-64 .tile-inner {
@@ -439,7 +439,6 @@ hr {
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
-
   }
   .tile.tile-128 .tile-inner {
     font-weight: medium;
